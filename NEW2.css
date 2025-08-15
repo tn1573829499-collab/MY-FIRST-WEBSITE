@@ -13,7 +13,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: seagreen;
-    background-image: url(img.jpg);
+    background-image: url(ak.jpg);
     background-size: cover;
     background-position: center;
 
@@ -116,4 +116,5 @@ body {
 
 .register-link p a:hover {
     text-decoration: underline;
+
 }
