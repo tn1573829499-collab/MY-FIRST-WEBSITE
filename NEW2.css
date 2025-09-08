@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: seagreen;
+    background-color: blue;
     background-image: url(ak.jpg);
     background-size: cover;
     background-position: center;
@@ -118,4 +118,5 @@ body {
     text-decoration: underline;
 
 }
+
 
